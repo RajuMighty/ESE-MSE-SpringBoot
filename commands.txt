@@ -1,0 +1,4 @@
+for server side just run the java program which is present in main module
+
+for clint side start the new terminal run the command npm i to install required libraries for react
+then run npm start it will automatically open local:3000 if doesnt then do it manually....
